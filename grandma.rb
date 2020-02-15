@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
 if phrase "I LOVE YOU GRANDMA!" 
 return 'I LOVE YOU TOO PUMPKIN'
 
-elsif the 
+elseif "the phrase is not uppercase, I have to return "HUH?! SPEAK UP, SONNY!"
 
 end
 
