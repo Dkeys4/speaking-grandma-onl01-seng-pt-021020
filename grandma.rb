@@ -1,13 +1,7 @@
 def speak_to_grandma(phrase)
 
 
-if "I LOVE YOU GRANDMA" = .uppercase
-return "HUH?! SPEAK UP, SONNY!"
-
-else "I LOVE YOU GRANDMA" = .lowercase
-return 'NO,NOT SINCE 1938!'
-
-elsif "I LOVE YOU GRANDMA" = .uppercase
+if phrase "I LOVE YOU GRANDMA!" 
 return 'I LOVE YOU TOO PUMPKIN'
 
 end
